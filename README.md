@@ -4,31 +4,55 @@
 Aplikasi ini dibuat untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah Pemrograman Mobile.
 Aplikasi menampilkan beberapa fitur utama seperti splash screen, halaman makanan favorit, dan destinasi wisata impian dengan desain UI yang modern dan user-friendly.
 
-✨ Fitur Aplikasi
+✨ Fitur Aplikasi 
+
 🎬 Splash Screen 2 halaman (Logo & Selamat Datang)
+
 🍲 Halaman Makanan Favorit
+
 🌴 Halaman Destinasi Wisata Impian
+
 🔄 Navigasi antar halaman menggunakan Intent
+
 🎨 UI modern dengan CardView dan warna yang konsisten
+
+
 📸 Tampilan Aplikasi
 
 (Tambahkan screenshot di sini kalau mau lebih keren)
 
 🧩 Struktur Project
+
 SplashActivity.kt → Mengatur tampilan splash screen
+
 MainActivity.kt → Halaman selamat datang
+
 MakananActivity.kt → Menampilkan makanan favorit
+
 WisataActivity.kt → Menampilkan destinasi wisata impian
+
 🛠️ Teknologi yang Digunakan
+
 Kotlin
+
 Android Studio
+
 XML Layout
+
 CardView (UI Design)
+
+
 🎯 Tujuan Pembuatan
+
 Memahami konsep Activity dalam Android
+
 Mengimplementasikan View dan ViewGroup
+
 Membuat navigasi antar halaman
+
 Mendesain UI/UX yang menarik dan konsisten
+
+
 👩‍💻 Developer
 
 Riri Rida Lestari
