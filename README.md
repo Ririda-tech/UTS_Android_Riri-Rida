@@ -15,11 +15,6 @@ Aplikasi menampilkan beberapa fitur utama seperti splash screen, halaman makanan
 
 ---
 
-## 📸 Tampilan Aplikasi
-_(Tambahkan screenshot di sini jika ada)_
-
----
-
 ## 🧩 Struktur Project
 - SplashActivity.kt → Mengatur tampilan splash screen
 - MainActivity.kt → Halaman selamat datang
